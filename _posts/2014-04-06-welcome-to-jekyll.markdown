@@ -5,4 +5,4 @@ date:   2019-09-02 15:40:56
 categories: jekyll update
 ---
 
-<img src=url(../snips/login.png) alt="login" style="width:100%">
+<img src="https://raw.githubusercontent.com/ecgrepollo/ecgrepollo.github.io/master/snips/login.PNG" alt="login" style="width:100%">
