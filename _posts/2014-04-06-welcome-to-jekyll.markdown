@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Pollo Craft !!!"
+title:  "Point of Sales (My very first major project)"
 date:   2019-09-02 15:40:56
 categories: jekyll update
 ---
