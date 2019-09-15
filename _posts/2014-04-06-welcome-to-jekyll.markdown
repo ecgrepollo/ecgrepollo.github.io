@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Point of Sales (My very first major project)"
-date:   2019-09-02 15:40:56
+date:   2019-09-15 15:40:56
 categories: jekyll update
 ---
 <h1>Brief Explanation of the application</h1><br><br>
