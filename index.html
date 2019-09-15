@@ -8,6 +8,8 @@ title: Pollo Craft
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <br><h2>Login</h2><br>
+        <img src="https://raw.githubusercontent.com/ecgrepollo/ecgrepollo.github.io/master/snips/login.PNG" alt="login" style="width:20%"><br>
     {% endfor %}
   </ul>
 </div>
